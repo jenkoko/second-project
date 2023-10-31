@@ -92,7 +92,7 @@ HEAD также как и лог показывает информацию о ф
 Учусь создавать схемы mermaid в файле README.md
 
 ```mermaid
-graf LR;
+grafh LR;
   untracked -- "git add" --> staged;
   staged    -- "git commit -m 'Описание'" --> tracked/commited
   
